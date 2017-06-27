@@ -12,6 +12,11 @@ study guide for aws solutions architect associate.This can be extended to other 
   
 
 # Module 2 - S3 and CloudFront
+- Basics of s3.
+- s3 Data lifecycle management
+- versioning
+- cross Region replication
+- S3 static website hosting
 
 # Module 3 - EC2
 
